@@ -7,19 +7,19 @@
         {
           "id": 101,
           "name": "افة الادمان",
-          "totalVotes": 12,
-          "yesPercentage": "58.33",
-          "noPercentage": "41.67",
-          "yes": 7,
-          "no": 5
+          "totalVotes": 14,
+          "yesPercentage": "57.14",
+          "noPercentage": "42.86",
+          "yes": 8,
+          "no": 6
         },
         {
           "id": 102,
           "name": "مشكل البطالة",
-          "totalVotes": 2,
-          "yesPercentage": "50.00",
-          "noPercentage": "50.00",
-          "yes": 1,
+          "totalVotes": 3,
+          "yesPercentage": "66.67",
+          "noPercentage": "33.33",
+          "yes": 2,
           "no": 1
         }
       ]

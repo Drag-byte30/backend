@@ -9,7 +9,7 @@ app.use(cors()); // Allow frontend to access backend
 
 const DATA_FILE = "surveyData.json";
 
-app.use(express.static(path.join(__dirname, "../frontend/survey-app/dist")));
+//app.use(express.static(path.join(__dirname, "../frontend/survey-app/dist")));
 // 📌 API: Get Survey Data
 app.get("/survey", (req, res) => {
   fs.readFile(DATA_FILE, "utf8", (err, data) => {
